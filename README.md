@@ -9,9 +9,10 @@ Dasar dasar penggunaan Git untuk developer. Materi disini adalah bagian dari pro
 4. Branching and Merging
 5. Working with remote repository
 6. Conflict Resolution
-6. Git for team
+6. Git Workflow
 
 Sebelum ikut dalam KeJar disarankan untuk membaca resource dan tutorial Git:
 
+* https://www.atlassian.com/git
 * http://sixrevisions.com/resources/git-tutorials-beginners/
 * http://www.youtube.com/GitHubGuides
